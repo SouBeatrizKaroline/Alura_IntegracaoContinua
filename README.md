@@ -2,6 +2,8 @@
 
 > Integração Contínua
 
+
+
 - Ferramentas de automação e construção, separado por linguagem/plataforma:
 
 > Java
@@ -46,15 +48,39 @@
 
 - [🔗 Composer](https://getcomposer.org/)
 
-- Alguns frameworks famosos da área de teste:
-> Selenium (automação do navegador)|
-> Cucumber (testes de aceitação)|
-> Postman e SoapUI (testes de API)|
-> JMeter (stress tests)|
+
+
+Alguns frameworks famosos da área de teste:
+
+> Automação do Navegador
+
+- [🔗 Selenium](https://www.selenium.dev/)
+
+> Testes de Aceitação
+
+- [🔗 Cucumber](https://cucumber.io/)
+
+> Testes de API
+
+- [🔗 Postman](https://www.postman.com/)
+
+- [🔗 SoapUI](https://www.soapui.org/)
+
+> Stress Tests
+
+- [🔗 Apache JMeter](https://jmeter.apache.org/)
+
 > JUnit, xUnit, PHPUnit (automação de testes)|
 
+- [🔗 JUnit](https://junit.org/junit5/)
 
-- Para o configuration management e provisioning podemos mencionar:
+- [🔗 XUnit.net](https://xunit.net/)
+
+- [🔗 PHPUnit](https://phpunit.de/)
+
+
+
+Para o configuration management e provisioning podemos mencionar:
 > Ansible|
 > Puppet|
 > Chef|
