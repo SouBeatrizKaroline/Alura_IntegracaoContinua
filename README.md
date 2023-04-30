@@ -3,14 +3,48 @@
 > Integração Contínua
 
 - Ferramentas de automação e construção, separado por linguagem/plataforma:
-> Java: Ant, Maven, Gradle|
-> Front-end: Gulp, Grunt, Webpack|
-> .NET: MSBuild|
-> Ruby: Rake|
-> Kotlin: Gradle|
-> Clojure: Leiningen|
-> C/C++: CMake/Make|
-> PHP: Composer|
+
+> Java
+
+- [🔗 Apache Ant](https://ant.apache.org/)
+
+- [🔗 Apache Maven](https://maven.apache.org/)
+
+- [🔗 Gadle](https://gradle.org/)
+
+> Front-end
+
+- [🔗 Gulp.js](https://gulpjs.com/)
+
+- [🔗 Grunt](https://gruntjs.com/)
+
+- [🔗 Webpack](https://webpack.js.org/)
+
+> .NET
+
+- [🔗 MSBuild](https://learn.microsoft.com/pt-br/visualstudio/msbuild/msbuild?view=vs-2022)
+
+> Ruby
+
+- [🔗 Rake](https://en.wikipedia.org/wiki/Rake_(software))
+
+> Kotlin
+
+- [🔗 Gadle](https://gradle.org/)
+
+> Clojure
+
+- [🔗 Leiningen](https://leiningen.org/)
+
+> C/C++
+
+- [🔗 CMake](https://cmake.org/)
+
+- [🔗 Make](https://www.make.com/en)
+
+> PHP
+
+- [🔗 Composer](https://getcomposer.org/)
 
 - Alguns frameworks famosos da área de teste:
 > Selenium (automação do navegador)|
