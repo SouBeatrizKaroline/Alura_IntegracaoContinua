@@ -27,6 +27,26 @@
 > Salt|
 > Terraform (cloud)|
 
+Servidores de integração disponíveis no mercado:
+
+- [🔗 Jenkins](https://jenkins.io/)
+
+- [🔗 GoCD](https://www.gocd.org/)
+
+- [🔗 Bamboo](https://www.atlassian.com/br/software/bamboo)
+
+- [🔗 Travis CI](https://travis-ci.org/)
+
+- [🔗 Team City](https://www.jetbrains.com/teamcity/)
+
+- [🔗 Circle CI](https://circleci.com/)
+
+- [🔗 Gitlab](https://about.gitlab.com/product/continuous-integration/)
+
+- [🔗 AWS Code Pipeline](https://aws.amazon.com/codepipeline/)
+
+- [🔗 Azure](https://azure.microsoft.com/pt-br/services/devops/server/)
+
 ## 🛠 Cursos
 
 - Integração Contínua: mais qualidade e menos risco no desenvolvimento
