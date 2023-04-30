@@ -81,11 +81,18 @@ Alguns frameworks famosos da área de teste:
 
 
 Para o configuration management e provisioning podemos mencionar:
-> Ansible|
-> Puppet|
-> Chef|
-> Salt|
-> Terraform (cloud)|
+
+- [🔗 Ansible](https://www.ansible.com/)
+
+- [🔗 Puppet](https://www.puppet.com/)
+
+- [🔗 Chef](https://www.chef.io/)
+
+- [🔗 Chef](https://www.chef.io/)
+
+- [🔗 Terraform](https://www.terraform.io/)
+
+
 
 Servidores de integração disponíveis no mercado:
 
